@@ -1025,6 +1025,11 @@ $env:PATH = "$env:JAVA_HOME\bin;$env:PATH"
 cd D:\banking\system1-gateway
 .\mvnw.cmd spring-boot:run
 WAIT until you see "Started GatewayApplication" - Keep this terminal running!
+System-core-1
+<img width="1906" height="924" alt="image" src="https://github.com/user-attachments/assets/2f633c00-9b1e-44c3-b804-bed39a037aad" />
+
+
+
 
 Terminal 3: React UI (Already Running)
 Keep your React terminal running!
